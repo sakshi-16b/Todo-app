@@ -15,6 +15,6 @@
 
 
 #🛠️ Tech Stack
-HTML5, CSS3
-JavaScript
-LocalStorage API
+HTML5, CSS3,
+JavaScript,
+LocalStorage 
